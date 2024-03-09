@@ -1,0 +1,14 @@
+{
+    "name": "@denniscmartin/prettier-config",
+    "version": "1.0.0",
+    "main": "index.json",
+    "scripts": {
+        "publish": "npm publish"
+    },
+    "peerDependencies": {
+        "prettier": "latest"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

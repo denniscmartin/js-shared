@@ -1,0 +1,14 @@
+{
+    "name": "@denniscmartin/eslint-config",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npm publish"
+    },
+    "peerDependencies": {
+        "eslint": "latest"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
